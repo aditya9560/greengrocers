@@ -489,7 +489,7 @@ footer .copyright{
 /* PAGE SHOP  */
 
 #page-shop{
-  background-image: linear-gradient(rgba(0, 0, 0, 0.61),rgba(0, 0, 0, 0.45)),url('img/banner/pexels-sam-lion-5709656.jpg');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.61),rgba(0, 0, 0, 0.45)),url('img/banner/banner2.jpg');
   width: 100%;
   height: 40vh;
   background-size: cover;
@@ -501,17 +501,17 @@ footer .copyright{
 }
 #page-shop h2,
 #page-shop p{
-  color: #fff;
+  color: #e5e83f;
 }
 #pagination{
   text-align: center;
 }
 #pagination a{
   text-decoration: none;
-  background-color: #14bbb0;
+  background-color: #49bb14;
   padding: 15px 20px;
   border-radius: 10px;
-  color: #fff;
+  color: #f7ed60;
   font-weight: 600;
 }
 #pagination a i{
